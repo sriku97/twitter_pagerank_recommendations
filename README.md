@@ -1,3 +1,3 @@
 # Personalized PageRank Graph Visualization
 
-![](personalized_pagerank.gif)
+![](personalized_pagerank_animation.gif)
